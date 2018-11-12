@@ -1,0 +1,1 @@
+This is a smple file. There shuld be three mistkes detected by the program.
